@@ -24,3 +24,11 @@ Dataset | Platform | Size | Data Link | Publication
 
 ##### Datasets to Add
 [ ] GTEX
+
+[ ] UKBEC 
+
+[ ] NABEC 
+
+[ ] Oldham 2008 
+
+[ ] Miller 2010
