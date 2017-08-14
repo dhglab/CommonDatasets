@@ -17,7 +17,7 @@ Dataset | Platform | Size | Data Link | Publication
 ##### Single Cell / Cell-Type Specific Datasets
 Dataset | Platform | Size | Data Link | Publication
 ------------|--------|--------------|-------------|---------
- Zhang/Barres | RNAseq | XXX samples | XXX | XX 
+ Zhang/Barres | RNAseq | 41 samples | http://www.cell.com/cms/attachment/2062202900/2063778431/mmc3.xlsx | http://www.cell.com/neuron/abstract/S0896-6273(15)01019-3 
 
 
 
